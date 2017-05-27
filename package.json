@@ -1,0 +1,13 @@
+{
+  "private": "true",
+  "scripts": {
+    "gaze": "node ./gaze.js",
+    "watch": "node ./watch.js",
+    "watchify": "watchify target.js -v -o /dev/null"
+  },
+  "dependencies": {
+    "gaze": "^1.1.2",
+    "watchify": "^3.9.0"
+  },
+  "devDependencies": {}
+}
