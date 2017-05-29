@@ -1,5 +1,7 @@
 ## Set Up
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ginpei/20170527-watch-docker.svg)](https://greenkeeper.io/)
+
 ```console
 > docker-compose up
 Starting watchdocker_node_1
